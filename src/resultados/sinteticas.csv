@@ -1,0 +1,12 @@
+caso,metodo,costo
+greedy_miope,vecino_mas_cercano,101.00
+greedy_miope,insercion,3.00
+ambas_optimas,vecino_mas_cercano,2.00
+ambas_optimas,insercion,2.00
+ciclo3,diagonal_inicial,30.00
+ciclo3,relocate+swap,30.00
+ciclo3,vnd_completo,3.00
+mh_mejor_caso,greedy,101.00
+mh_mejor_caso,ILS,3.00
+mh_peor_caso,optimo,2.00
+mh_peor_caso,ILS,2.00
